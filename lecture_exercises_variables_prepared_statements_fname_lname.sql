@@ -30,3 +30,19 @@
 
 
 
+# Example 6
+# New Product Process
+# The vendor, Big Sky Mountain Bikes, is introducing a new bike. 
+# We have to INSERT into multiple tables to add the new product into the system.
+
+
+
+###########################
+### PREPARED STATEMENTS ###
+###########################
+
+# Example 7
+# INSERT a new product with prepared statements
+
+
+
