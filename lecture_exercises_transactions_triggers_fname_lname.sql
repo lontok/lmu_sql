@@ -3,7 +3,7 @@
 ################
 
 # Example 1
-# Insert a new category named "Food" with a transaction
+# Insert a new category named Food with a transaction
 
 
 
