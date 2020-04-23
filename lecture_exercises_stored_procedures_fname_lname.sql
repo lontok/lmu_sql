@@ -14,7 +14,7 @@
 
 ##################################
 # Example 2
-# Update the ordersCount stored procedure to accept IN parameters for an orderDate date range
+# Update the getOrdersCount stored procedure to accept IN parameters for an orderDate date range
 
 
 
@@ -28,7 +28,7 @@
 
 ##################################
 # Example 3
-# Update the ordersCount stored procedure to return an OUT parameter for the number of rows in the orders table.
+# Update the getOrdersCount stored procedure to return an OUT parameter for the number of rows in the orders table.
 # Keep the IN parameters for an orderDate date range.
 
 
